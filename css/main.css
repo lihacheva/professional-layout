@@ -1,0 +1,27 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+.nav-bar {
+  background: #222222;
+  display: flex;
+  max-width: 1600px;
+  height: 75px;
+  justify-content: center;
+}
+.icon {
+  display: inline-flex;
+  margin-left: 35px;
+  margin-top: 25px;
+}
+.icons {
+  display: inline-flex;
+}
+.header {
+  background: #F1E4E6;
+  max-width: 1600px;
+  height: 764px;
+}
+.img {
+  justify-content: center;
+}
